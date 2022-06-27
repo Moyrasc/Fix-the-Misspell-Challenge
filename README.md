@@ -18,7 +18,7 @@ All the content must be markdown based, to create new articles all you must do i
 
 The CMS needs to be able to generate URLs with the following format:
 ```
-https://content.breatheco.de/<type of content>/<article id>
+https://content.breatheco.de /<type of content>/<article id>
 ```
 For example:
 ```
